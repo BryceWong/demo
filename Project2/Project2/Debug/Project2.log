@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\31351\source\repos\project2\project2\源.cpp(33): warning C4101: “tx”: 未引用的局部变量
+  Project2.vcxproj -> C:\Users\31351\source\repos\Project2\Debug\Project2.exe
